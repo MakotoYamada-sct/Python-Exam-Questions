@@ -1,4 +1,4 @@
-# Python Exam Questions (Python 試験問題集・学習リポジトリ)
+# Python 試験問題集・学習リポジトリ
 
 このリポジトリは、Python の資格試験に向けた資格試験出題アプリです。
 
